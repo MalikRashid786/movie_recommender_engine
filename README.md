@@ -77,7 +77,7 @@ The Code is written in Python 3.10.4 If you don't have Python installed you can 
 Install Required Libraries
 
 ```bash
-  Step 1: pip install -r requirements.tx
+  Step 1: pip install -r requirements.txt
 ```
 Running Project
 
